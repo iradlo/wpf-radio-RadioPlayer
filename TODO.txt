@@ -1,0 +1,6 @@
+- Stream recorder
+- Equalizer
+- System tray minimizing
+- Theme dark/light
+- Sleep timer auto off after some time
+- Instaler (MSI/MSIX)

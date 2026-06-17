@@ -1,0 +1,7 @@
+<Application x:Class="RadioPlayer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <!-- StartupUri intentionally omitted: the main window is created in OnStartup after DI setup. -->
+  <Application.Resources>
+  </Application.Resources>
+</Application>
